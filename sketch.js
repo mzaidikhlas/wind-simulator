@@ -1,3 +1,7 @@
+/*
+Developed by https://github.com/mzaidikhlas
+*/
+
 var weather;
 var api = 'http://api.openweathermap.org/data/2.5/weather?q=';
 var apiKey = '&APPID=ca4d95a5190d960961997673c70a62ea';
